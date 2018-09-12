@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"equal",
+				"equalheights"
+			],
+			[
+				"fan",
+				"fanVoice"
+			],
+			[
+				"gre",
+				"grey-border"
+			],
+			[
+				"border",
+				"border-radius-all"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"border-radius",
+				"border-radius-bottom-only"
+			],
+			[
+				"gr",
+				"grey-border"
+			],
+			[
+				"sha",
+				"module-box-shadow"
+			],
+			[
+				"heading-",
+				"heading-small"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sec",
+				"section-margin"
+			],
+			[
+				"button",
+				"button-secondary"
+			],
+			[
+				"coles",
+				"coles-grey"
+			],
+			[
+				"cl",
+				"clfx"
+			],
+			[
+				"gra",
+				"gradient-grey-light"
+			],
+			[
+				"coles-",
+				"coles-red-text"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"h4",
+				"h4-font-size"
+			],
+			[
+				"hea",
+				"header-font-color"
+			],
+			[
+				"haptic-",
+				"haptic-extra-bold"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"da",
+				"dark-brown"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"module-footer",
+				"module-footer-promo"
+			],
+			[
+				"grad",
+				"gradient-grey"
+			],
+			[
+				"heading",
+				"heading-row"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"gradient",
+				"gradient-red"
+			],
+			[
+				"bord",
+				"border-grey"
+			],
+			[
+				"ul",
+				"url"
+			],
+			[
+				"border-",
+				"border-grey"
+			],
+			[
+				"bor",
+				"border-grey"
+			],
+			[
+				"module",
+				"module-content"
+			],
+			[
+				"inl",
+				"include"
+			],
+			[
+				"date",
+				"date_picker"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/MSBuild/MSBuild.sublime-build",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.FED.Global/assets/global/sass/_0.global-settings.scss",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.Careers/assets/ColesCareers/css/site.css",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.Careers/assets/ColesCareers/sass/_5.modules.scss",
+		"/C/Users/samh/Dropbox/_share/ReactiveR&D/index.html",
+		"/C/Users/samh/Dropbox/_share/ReactiveR&D/resources/sass/site.css.scss",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.Careers/assets/ColesCareers/sass/_0.site-settings.scss",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.Careers/assets/ColesCareers/sass/site.css.scss",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Reactive.Coles.FED.Global/assets/global/sass/coles-global.css.scss",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/sass/partials/_buttons.scss",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/sass/partials/_media-queries-tablet.scss",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/sass/partials/_media-queries-mobile.scss",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/css/colesFS.css",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/js/ColesFS/main.js",
+		"/C/TFSProjects/Coles FS/Main/Sitecore/Reactive.Coles.FED/Resources/sass/partials/_modules.scss",
+		"/C/TFSProjects/Coles Careers/Main/Sitecore/Webroot/website/Web.config",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/css/colesFS.css",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_media-queries-mobile.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_media-queries-tablet.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_media-queries-desktop-small.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_custom-mixins.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_headings.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_header.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/js/ColesFS/colesFS.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_media-queries.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_variables.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_constants.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_modules.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_reactive-mixins.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/js/ColesFS/main.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/_framework.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/config.rb",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_navigation.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_fancybox.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_footer.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/partials/_buttons.scss",
+		"/C/Users/samh/Desktop/aatest.html",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/js/common/init/ios-orientationchange-fix.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/sass/colesFS.scss",
+		"/C/Users/samh/Dropbox/_programs/Sublime Text 2.0.1 x64/_projects/bbl.sublime-workspace",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Framework.1.0.0.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Renegades.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Hurricanes.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Stars.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Sixers.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Strikers.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Heat.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Thunder.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/javascript/bbl/libs/CA.framework-1.0.0.js",
+		"/C/SVNprojects/EPA-Sitecore/trunk/Reactive.EPA.Web/bollocks/print-test.html",
+		"/C/SVNprojects/EPA-Sitecore/trunk/Reactive.EPA.Web/resources/css/epa_print.css",
+		"/C/SVNprojects/EPA-Sitecore/trunk/_templates/print-test.html",
+		"/C/SVNprojects/EPA-Sitecore/trunk/Reactive.EPA.Web/resources/bollocks/print-test.html",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk/Reactive.Sitecore.Kernel/css/bbl/CA.Scorchers.css",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/js/ColesFS/plugins/jquery.fittext.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/external-files/calculator/js/mc-calculator-vanilla.js",
+		"/C/Users/samh/Desktop/old FS/Reactive.Coles.FED/Resources/js/ColesFS/main.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.sln",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/sass/partials/_modules.scss",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/sass/partials/_media-queries.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_media-queries.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/ColesFS/main.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/ColesFS/plugins/jquery.rm-module-tools.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_gradients.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/colesFS.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_modules.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_variables.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_constants.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_headings.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_template-overrides.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/config.rb",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_header.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/_framework.scss",
+		"/C/SVNprojects/EPA-Sitecore/trunk/HTMLTemplates/resources/css/epa.css",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/css/colesFS.css",
+		"/C/SVNprojects/Coles-prototype/trunk/HTMLTemplates/source/resources/css/_0.site-settings.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_reactive-mixins.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_calculator.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Webroot/Website/Resources/css/colesFS.css",
+		"/C/SVNprojects/Coles-prototype/trunk/HTMLTemplates/source/resources/css/libs/_mixins.scss",
+		"/C/SVNprojects/Coles-prototype/trunk/HTMLTemplates/source/resources/css/libs/foundation/_foundation-global.scss",
+		"/C/SVNprojects/Coles-prototype/trunk/HTMLTemplates/source/resources/css/libs/foundation/components/_grid.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/utilities/retina.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_custom-mixins.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/_mixins.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/_templates/home-responsive.html",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Webroot/Website/_templates/home-responsive.html",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_0.site-settings.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_1.base.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_3.states.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_4.themes.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_5.modules.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/site.css.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/_2.layout.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/config.rb",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/external-files/calculator/js/mc-calculator-vanilla.js",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk.Phase2/Reactive.Sitecore.Kernel/css/bbl/CA.Heat.css",
+		"/C/SVNprojects/CricketAustralia/CricketAustralia.Trunk.Phase2/Reactive.Sitecore.Kernel/css/bbl/CA.Framework.1.0.0.css",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_font-library.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_site-creditCards.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_fonts.scss",
+		"/C/Users/samh/Desktop/home-insurance[1].html",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/js/ColesFS/colesFS.js",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/js/ColesFS/main.js",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FinancialServices/layouts/ColesFS/Pages/SiteMaster.aspx.cs",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FinancialServices/layouts/ColesFS/Pages/SiteMaster.aspx",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/js/ColesFS/plugins/jquery.ba-throttle-debounce.js",
+		"/C/SVNprojects/Coles/ColesFSFancyB/Reactive.Coles.FED/Resources/js/ColesFS/plugins/jquery.rm-module-tools.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/external-files/calculator/css/mastercard.css",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/common/init/selectivizr.min.js",
+		"/C/SVNprojects/mycoles.com.au/trunk/build-responsive/javascripts/main.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/ColesFS/colesFS.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/common/plugins/plugins.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/js/common/plugins/enquire.min.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/external-files/calculator/js/mc-calculator-rewards2.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/external-files/calculator/js/mc-calculator-nofee2.js",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_media.scss",
+		"/C/SVNprojects/Coles/ColesFSCreditCards/Reactive.Coles.FED/Resources/sass/partials/_wysiwyg.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/foundation/components/_dropdown.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/js/_com.rm.js",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/coles/_navigation.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/_font-lib.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/css/site.css",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/foundation/components/_type.scss",
+		"/C/TFSProjects/Coles/Main/Reactive.Coles.FED/assets/coles/sass/libs/foundation/components/_buttons.scss",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/external-files/calculator/js/mc-calculator-rewards.js",
+		"/K/01 Entourage/Coles/CO1012 - Coles FS Credit Card/resources/client/mastercardcalc/js/mc-calculator.js",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/external-files/calculator/css/mastercard.css",
+		"/C/SVNprojects/Coles/ColesFS/Reactive.Coles.FED/Resources/js/ColesFS/plugins/jquery.rm-follow-links.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\TFSProjects\\Coles Careers\\Main\\Sitecore\\Reactive.Coles.Careers\\assets\\ColesCareers\\sass",
+			"C:\\SVNprojects\\Coles\\ColesFS\\Reactive.Coles.FED\\Resources\\sass\\partials",
+			"C:\\SVNprojects\\Coles\\ColesFS\\Reactive.Coles.FED\\Resources\\sass",
+			"C:\\SVNprojects\\Coles\\ColesFS\\Reactive.Coles.FED\\Resources\\sass\\partials",
+			"C:\\SVNprojects\\CricketAustralia\\CricketAustralia.Trunk\\Reactive.Sitecore.Kernel\\javascript",
+			"C:\\SVNprojects\\Coles\\ColesFSCreditCards\\Reactive.Coles.FED\\Resources\\sass",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates",
+			"",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source\\resources\\css",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source\\resources\\css\\libs\\foundation",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source\\resources\\css",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source\\resources\\css",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source",
+			"C:\\SVNprojects\\Boilerplates\\ZURBBoilerplate\\site\\source",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates",
+			"C:\\SVNprojects\\Coles-prototype\\trunk\\HTMLTemplates\\source\\HTML_Partials",
+			"C:\\SVNprojects\\Boilerplates\\Reactive-Zurb-Boilerplate-test",
+			"C:\\SVNprojects\\ZURBBoilerplate\\site",
+			"C:\\wamp\\www\\febfast\\trunk\\wp-content\\themes\\febfast-2013",
+			"C:\\wamp\\www\\febfast\\trunk\\wp-content\\plugins\\cyclone-slider"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"retin",
+			"dataFol",
+			"dataPath",
+			"quick-la",
+			"module-apply-cards",
+			"module-choices",
+			"table",
+			"summary",
+			"module-choices",
+			"module-ch",
+			"module-product-summary",
+			"module-choices",
+			"module-compare-top",
+			"footer-promo",
+			"height:auto!important",
+			"resizeMobile",
+			"module-promo",
+			"module-banner",
+			"equal",
+			"AlignModuleElements",
+			"rmAlignModuleElements",
+			"footerAlign",
+			".heading-page-font-size",
+			"sub",
+			"top-navigation",
+			"$base-font-size-mobile",
+			".module-apply-bottom",
+			" module-apply-bottom",
+			"column",
+			"wys",
+			"module-choices-summary",
+			"product-sum",
+			"90",
+			"$red-bg",
+			"product",
+			":not",
+			"module-banner",
+			"module-has",
+			"module-product-summary",
+			"count",
+			"text-block-im",
+			"module-quick-guide",
+			"choices",
+			" module-inner",
+			"banner",
+			"opacity",
+			"$heading-font-size",
+			"compare-bottom",
+			"font-s",
+			"11px",
+			"25px",
+			"$base-font-size",
+			"#f00",
+			"197",
+			"produc",
+			"module-bann",
+			"product-sum",
+			"module-product",
+			"mobile-only",
+			"compare-top",
+			"quick-l",
+			"radius",
+			"quick-l",
+			"@media",
+			"quick-l",
+			"module-rewards-calculator",
+			"each",
+			"sub-n",
+			"sub-",
+			".logo",
+			"(n)",
+			"compare-bo",
+			"compare-b",
+			"@media",
+			"promo",
+			"@media",
+			"emptyImgTag",
+			"module-compare-top",
+			"BD161D",
+			"bd161d",
+			"top-nav",
+			"#content",
+			"mobile-nav",
+			"each",
+			"mobile",
+			".container",
+			"table ",
+			"@media",
+			"table",
+			"module-list-rates ",
+			"twitter",
+			"scollba",
+			"icon",
+			".nav",
+			"@media",
+			"background-image:none",
+			"logo",
+			".nav",
+			"#content",
+			"logo",
+			"module-apply-steps",
+			"module-header-banner",
+			"@media",
+			".module-quick-access",
+			"module-offer-promo",
+			"header-banner",
+			"offer",
+			"features-wrapper",
+			"text-block",
+			"features",
+			"module-footer-promo",
+			"module-offer-promo",
+			"#content",
+			"$nav-",
+			"#content",
+			"html {",
+			"html",
+			".summary",
+			"logo",
+			"module-apply-s",
+			"footer",
+			"module-footer-promo",
+			"==",
+			"$nav-offset",
+			"#con",
+			"off",
+			"nav-op",
+			"nav-open"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sectionTwo",
+			"sectionOne",
+			"sectionFour",
+			"sectionThree",
+			".mc-calculator-wrapper",
+			"#\"",
+			"\"",
+			"",
+			"febfast.org.au",
+			"http://febfast.org.au",
+			"http://febfast.org.au/",
+			"http://localhost/febfast/trunk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.20149428349,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 131.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}

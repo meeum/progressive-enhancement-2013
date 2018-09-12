@@ -1,0 +1,436 @@
+// colours
+
+$dark:#000;
+$white:#fff;
+$light:#f3f3f3;
+$blue:#008dcc;
+$light-blue:#a1d0e6;
+$yellow:#ffd500;
+$red:#f00;
+$light-grey:#e5e5e5;
+$dark-grey:#313131;
+$box-hw:180px;
+
+$site-width:1100px;
+
+//font sizes
+
+$mid-size:21px;
+
+
+@font-face{ 
+      font-family: 'Futura';
+      src: url('../fonts/Futura LT Bold.eot');
+      src:  url('../fonts/Futura LT Bold.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Futura LT Bold.woff') format('woff'),
+            url('../fonts/Futura LT Bold.ttf') format('truetype'),
+            url('../fonts/Futura LT Bold.svg#webfont') format('svg');
+            font-weight:100;
+            font-style:normal;
+}
+
+@font-face{ 
+      font-family: 'FuturaCondensed';
+      src: url('../fonts/FuturaBT-ExtraBlackCondensed.eot');
+      src:  url('../fonts/FuturaBT-ExtraBlackCondensed.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/FuturaBT-ExtraBlackCondensed.woff') format('woff'),
+            url('../fonts/FuturaBT-ExtraBlackCondensed.ttf') format('truetype'),
+            url('../fonts/FuturaBT-ExtraBlackCondensed.svg#webfont') format('svg');
+            font-weight:100;
+            font-style:normal;
+}
+
+@font-face{ 
+      font-family: 'FuturaMedium';
+      src: url('../fonts/Futura LT Medium.eot');
+      src:  url('../fonts/Futura LT Medium.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Futura LT Medium.woff') format('woff'),
+            url('../fonts/Futura LT Medium.ttf') format('truetype'),
+            url('../fonts/Futura LT Medium.svg#webfont') format('svg');
+            font-weight:100;
+            font-style:normal;
+}
+
+$arial: Arial, Helvetica, sans-serif;
+$futura: Futura, $arial;
+$futuracondensed: FuturaCondensed, $futura, $arial;
+$futuramedium: FuturaMedium, $futura, $arial;
+
+strong {
+	font-weight:700;
+}
+
+a {
+	text-decoration:none;
+}
+
+* { 
+	@include box-sizing(border-box); 
+	@include transition-duration(.5s);
+}
+
+body {
+	font-family:$arial;
+	font-size:14px;
+	color:$dark-grey;
+}
+.button {
+	position:fixed;
+	
+	bottom:10px;
+	right:10px;
+	background:$blue;
+	color:#fff;
+	font-weight:700;
+	@include opacity(.5);
+	@include border-radius(10px);
+	padding:5px 10px;
+
+	&:hover {
+		@include opacity(1);
+	}
+}
+.back-top {
+	
+	
+}
+
+header {
+	background:$blue;
+	color:$white;
+	@include clearfix;
+	//position:fixed;
+	width:100%;
+	//z-index:1000;
+	padding-top:10px;
+	margin-bottom:50px;
+	.header-wrap {
+		
+	}
+
+	.browser-version {
+		float:right;
+	}
+
+	.menu-prompt {
+		//color:$light-blue;
+		color:#fff;
+		font-family:$futura;
+		font-size:$mid-size;
+		text-transform:uppercase;
+		display:block;
+		width:100px;
+		height:30px;
+	}
+}
+
+
+nav {
+	//max-height:0;
+	//@include opacity(0);
+	//transition:all 5s linear 0s;
+
+	ul {
+		@include clearfix;
+		li {
+			width:30%;
+			margin-right:3%;
+			float:left;
+			margin-bottom:5px;
+			a {
+				color:$white;
+				font-family:$futura;
+				font-size:$mid-size;
+				text-transform:uppercase;
+				width:100%;
+
+				&:hover {
+					color:$light-blue;
+				}
+
+			}
+		}
+	}
+}
+
+.intro {
+	.wrapper {
+		//background:$light;
+		//padding:10px;
+		margin:20px auto;
+		//@include border-radius(10px);
+		//@include box-shadow(5px 5px 10px #808080);
+		@include clearfix;
+		p {
+			margin-bottom:10px;
+			line-height:1.3;
+			color:#4d4d4d;
+
+			a {
+				color:$blue;
+			}
+		}
+	}
+}
+input[type=checkbox] {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+}
+
+label {
+	cursor:pointer;
+}
+[for="read_more"] {
+   
+}
+
+[for="read_more"]:hover {
+   
+}
+
+[for="read_more"] em,
+[for="read_more"] span {
+	display:block;
+	float:left;
+	
+}
+[for="read_more"] em {
+	margin-right:10px;
+}
+[for="read_more"] span {
+	
+}
+
+[for="read_more"] span:last-of-type {
+    display: none;
+    visibility: hidden;
+}
+
+input[type=checkbox]:checked ~ [for="read_more"] span:first-of-type {
+    display: none;
+    visibility: hidden;
+}
+
+input[type=checkbox]:checked ~ [for="read_more"] span:last-of-type {
+    display: block;
+    visibility: visible;
+}
+
+nav {
+	//display:none;
+	//visibility: hidden;
+	//transform: scaleY(0);
+    //transform-origin: center top 0;
+    //transition: transform 0.26s ease 0s;
+    min-height:0;
+    	max-height:0;
+    	height:0;
+
+    li {
+    	
+    }
+}
+
+input[type=checkbox]:checked ~ nav {
+	//max-height:200px;
+	//@include opacity(1);
+	//display: block;
+    //visibility: visible;
+    //transform: scaleY(1);
+		$nav-height:60px;
+	    min-height:$nav-height;
+    	max-height:$nav-height;
+    	height:$nav-height;
+
+    li {
+    	
+    }
+}
+
+
+.column {
+	float:left;
+	width:30%;
+	margin-right:3%;
+	//@include clearfix;
+
+	strong {
+		font-family:$futuramedium;
+		text-transform:uppercase;
+		font-size:18px;
+	}
+}
+
+section {
+	clear:both;
+	@include clearfix;
+	margin-bottom:70px;
+	border:1px $light;
+	border-style:solid none;
+		&.intro {
+			border:none;
+		}
+	
+	
+}
+
+.wrapper {
+	width:$site-width;
+	margin:0 auto ;
+}
+
+h2 {
+	width:$site-width;
+	margin:0 auto ;
+	font-family:$futura;
+	font-size:30px;
+	
+	margin-bottom:25px;
+	text-transform:uppercase;
+}
+
+.box {
+	width:$box-hw;
+	height:$box-hw;
+	@include clearfix;
+	float:left;
+	margin-right:10px;
+	display:block;
+	background:$yellow;
+	margin-bottom:30px;
+
+	p {
+		padding-top:45%;
+		text-align:center;
+		font-size:22px;
+	}
+}
+
+.examples {
+	float:left;
+	li {
+		float:left;
+		em {
+		 	font-family:$futura;
+		 	color:$light-grey;
+		 	font-size:50px;
+		 	display:block;
+		 	position:absolute;
+		 	left:1px;
+		 	top:170px;
+		 }
+		 a {
+		 	width:75px;
+			overflow:hidden;
+			background:$light;
+
+			position:relative;
+			color:$dark-grey;
+			text-decoration:none;
+			//@include transition-duration(1s);
+			margin-right:3px;
+			display:block;
+			padding:20px 0 30px 5px;
+			img {
+				visibility:hidden;
+				margin-bottom:10px;
+				@include transition-duration(0s);
+			}
+			span {
+				display:block;
+				font-weight:700;
+				clear:both;
+				
+			}
+
+			&:hover,
+			&:focus {
+				width:($box-hw+20);
+				background:$white;
+				img {
+					visibility:visible;
+				}
+				em {
+					left:-9999px;
+				}
+			}
+		 }
+		 
+		&:first-child {
+			//margin-right:10px;
+			a {
+				width:($box-hw+50);
+				background:none;
+				padding-right:0;
+				margin-right:0;
+				border-right:1px solid $light;
+				.lt-ie8 & {
+					//width:($box-hw+10);
+				}
+			}
+		}
+	}
+}
+
+
+.box-border-radius,
+.box-all {
+	@include border-radius(10px);
+}
+ 
+.box-box-shadow,
+.box-all {
+	@include box-shadow(5px 5px 10px #808080);
+}
+
+.box-opacity,
+.box-all {
+	@include opacity(.5);
+}
+
+.box-text-shadow,
+.box-all {
+	@include text-shadow(3px 2px 6px #808080);
+}
+
+.box-gradient-linear,
+.box-all {
+	//@include background(linear-gradient(top left, $yellow, $blue));
+	@include background-gradient($yellow,$blue);
+}
+
+.box-gradient-radial,
+.box-all {
+	@include background(radial-gradient(center, circle closest-corner, $yellow 40%, $blue 100%)); 
+}
+
+.box-filter {
+	@include filter(blur(2px) grayscale(50%));
+}
+
+.box-triple-borders {
+	@include triple-borders($red,$blue,#000);
+}
+
+.box-double-borders {
+	@include triple-borders($red,$blue);
+}
+
+.box-flip {
+	@include flip;
+}
+
+.box-box {
+	@include box;
+}
+
+.box-box-rgba {
+	@include box-rgba;
+}
+
